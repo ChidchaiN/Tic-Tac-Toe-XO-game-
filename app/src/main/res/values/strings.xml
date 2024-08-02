@@ -1,0 +1,10 @@
+<resources>
+    <string name="tic_tac_toe_button">TicTacToe</string>
+    <string-array name="table_sizes">
+        <item>3x3</item>
+        <item>4x4</item>
+        <item>5x5</item>
+        <item>6x6</item>
+    </string-array>
+
+</resources>
