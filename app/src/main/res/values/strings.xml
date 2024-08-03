@@ -6,5 +6,11 @@
         <item>5x5</item>
         <item>6x6</item>
     </string-array>
+    <array name="size_options">
+        <item>3x3</item>
+        <item>4x4</item>
+        <item>5x5</item>
+        <item>6x6</item>
+    </array>
 
 </resources>
